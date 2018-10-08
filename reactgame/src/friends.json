@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Texas",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Texas.svg/2000px-Flag_of_Texas.svg.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "California",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/640px-Flag_of_California.svg.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "FLorida",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Florida.svg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Alaska",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Alaska.svg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Louisiana",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Flag_of_Louisiana.svg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Washington",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlOpKlkCycvNFZWGb6xh6lkK-xa6YQWUrn9vH5prjpWx53dBUjtWbPQCA",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Connecticut",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Flag_of_Connecticut.svg",
+    "clicked": true
+  },
+  {
+    "id": 8,
+    "name": "New York",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_New_York.svg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Colorado",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMAzi1toOXs34I2jceOt1xwV4prfKPzOvYNLEJJ-swV11qBb0STphuka0",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "New Mexico",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_New_Mexico.svg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Massachusetts",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Massachusetts.svg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Oregon",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Oregon.svg",
+    "clicked": false
+  }
+]
